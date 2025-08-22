@@ -6,6 +6,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### GitHub Stats & Activity 📊
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChauhanAyush04&show_icons=true&theme=radical)
+
+
 <!---
 ChauhanAyush04/ChauhanAyush04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
